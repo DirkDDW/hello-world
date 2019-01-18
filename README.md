@@ -1,2 +1,2 @@
 # hello-world
-my forst trial in github
+my first trial in github
